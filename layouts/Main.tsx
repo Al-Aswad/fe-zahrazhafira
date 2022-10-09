@@ -18,7 +18,7 @@ const Main = (props : Props) => {
             </Head>
             <Header />
 
-            <main className="mt-[70px] mb-8" style={{ 'margin-top': '70px' }}>
+            <main className="mt-[70px] mb-8" style={{ 'marginTop': '70px' }}>
                 {children}
             </main>
             <footer>
